@@ -189,8 +189,6 @@ header .downlad-btn:hover{ -webkit-transform: translateY(-4px); transform: trans
 
 .portfolio-section .p-item.p-item-2 .img:last-child{ float: right; width: 50%; padding-left: 7.5px; }
 
-.portfolio-section .card .card-img-top { padding-left: 1px;}
-
 
 /* ---------------------------------
 6. ABOUT SECTION
